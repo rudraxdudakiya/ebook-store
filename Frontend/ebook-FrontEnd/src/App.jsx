@@ -5,7 +5,7 @@ import { BrowserRouter, Route, Routes, Navigate } from 'react-router-dom';
 // auth component
 import Header from './pages/header/Header';
 import Signin from './pages/auth/components/SignIn/Signin';
-import Signup from './pages/auth/components/Signup/Signup';
+import Signup from './pages/auth/components/SignUp/Signup';
 
 //admin component
 import AdminDashboard from './pages/admin/components/AdminDashboard';
