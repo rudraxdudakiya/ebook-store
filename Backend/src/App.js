@@ -34,10 +34,6 @@ mongoose.connect(mongoURI, {})
         console.error('MongoDB connection error:', err);
 });
 
-app.listen(port, () => {
-    console.log(`Server is running on port: ${port}`);
-});
-
 app.use('/api/auth', authRoute);
 
 //admin Routes
@@ -47,4 +43,10 @@ app.use('/api/admin/book', adminBookRoute)
 app.use('/api/customer/book', customerBookRoute)
 app.use('/api/customer/cart', customerCartRoute)
 app.use('/api/customer/order', customerOrderRoute)
+
+
+app.listen(port, () => {
+    console.log(`Server is running on port: ${port}`);
+});
+
 

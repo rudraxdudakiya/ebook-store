@@ -5,11 +5,12 @@
   "license": "ISC",
   "author": "Rudrax Dudakiya",
   "type": "commonjs",
-  "main": "index.js",
+  "main": "src/App.js",
   "scripts": {
     "start": "node src/App.js",
     "dev": "nodemon src/App.js",
-    "build": "echo 'No build step required' && exit 0"
+    "vercel-build": "echo 'No build needed for backend'",
+    "build": "echo 'Skip build step'"
   },
   "dependencies": {
     "bcryptjs": "^3.0.2",
