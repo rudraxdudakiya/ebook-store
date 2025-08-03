@@ -1,0 +1,8 @@
+@import "tailwindcss";
+/* Replace @custom-variant with a valid Tailwind CSS configuration */
+@layer utilities {
+  .dark-mode & {
+  background-color: #1a202c; /* Equivalent to dark:bg-gray-900 */
+  color: #ffffff; /* Equivalent to text-white */
+  }
+}

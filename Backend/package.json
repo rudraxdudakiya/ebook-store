@@ -1,0 +1,24 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "ebook store project",
+  "license": "ISC",
+  "author": "Rudrax Dudakiya",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/App.js",
+    "dev": "nodemon src/App.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "bcryptjs": "^3.0.2",
+    "cors": "^2.8.5",
+    "dotenv": "^16.5.0",
+    "express": "^4.21.2",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.13.3",
+    "nodemon": "^3.1.10",
+    "uuid": "^11.1.0"
+  }
+}

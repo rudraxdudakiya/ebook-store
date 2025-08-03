@@ -1,0 +1,123 @@
+[
+  {
+    "title": "Eloquent JavaScript",
+    "author": "Marijn Haverbeke",
+    "description": "A modern introduction to programming with JavaScript.",
+    "price": 30.99,
+    "genre": "Programming",
+    "condition": "Like New",
+    "edition": "3rd",
+    "imageUrl": "https://eloquentjavascript.net/img/cover.jpg"
+  },
+  {
+    "title": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "description": "A novel about the decline of the American Dream in the 1920s.",
+    "price": 12.5,
+    "genre": "Fiction",
+    "condition": "Used - Good",
+    "edition": "1st",
+    "imageUrl": "https://c8.alamy.com/comp/2AN3D2X/the-great-gatsby-cover-of-the-first-edition-of-the-1925-novel-by-f-scott-fitzgerald-2AN3D2X.jpg"
+  },
+  {
+    "title": "Clean Code",
+    "author": "Robert C. Martin",
+    "description": "Guide to writing clean and maintainable code.",
+    "price": 42.0,
+    "genre": "Programming",
+    "condition": "New",
+    "edition": "1st",
+    "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/41xShlnTZTL._SX374_BO1,204,203,200_.jpg"
+  },
+  {
+    "title": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "description": "A story of racial injustice in the Deep South.",
+    "price": 9.99,
+    "genre": "Classic",
+    "condition": "Used - Good",
+    "edition": "2nd",
+    "imageUrl": "https://m.media-amazon.com/images/I/81gepf1eMqL._SL1500_.jpg"
+  },
+  {
+    "title": "You Don't Know JS: Scope & Closures",
+    "author": "Kyle Simpson",
+    "description": "In-depth guide to JavaScript scope and closures.",
+    "price": 18.75,
+    "genre": "Programming",
+    "condition": "Like New",
+    "edition": "2nd",
+    "imageUrl": "https://m.media-amazon.com/images/I/91wXqGQsUFL._AC_UF350,350_QL50_.jpg"
+  },
+  {
+    "title": "1984",
+    "author": "George Orwell",
+    "description": "A dystopian novel about totalitarianism.",
+    "price": 14.0,
+    "genre": "Science Fiction",
+    "condition": "Used - Good",
+    "edition": "3rd",
+    "imageUrl": "https://m.media-amazon.com/images/I/91JO5Y13xUL._UF894,1000_QL80_.jpg"
+  },
+  {
+    "title": "Python Crash Course",
+    "author": "Eric Matthes",
+    "description": "A hands-on, project-based introduction to programming.",
+    "price": 35.5,
+    "genre": "Programming",
+    "condition": "New",
+    "edition": "2nd",
+    "imageUrl": "https://m.media-amazon.com/images/I/71uiG3qqKaL._SL1500_.jpg"
+  },
+  {
+    "title": "Pride and Prejudice",
+    "author": "Jane Austen",
+    "description": "A romantic novel that critiques societal expectations.",
+    "price": 11.25,
+    "genre": "Romance",
+    "condition": "Used - Acceptable",
+    "edition": "1st",
+    "imageUrl": "https://m.media-amazon.com/images/I/51oQBC68VSL._SY445_SX342_.jpg"
+  },
+  {
+    "title": "The Pragmatic Programmer",
+    "author": "Andrew Hunt and David Thomas",
+    "description": "Your journey to mastery in software development.",
+    "price": 45.0,
+    "genre": "Programming",
+    "condition": "New",
+    "edition": "20th Anniversary Edition",
+    "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/41as+WafrFL._SX258_BO1,204,203,200_.jpg"
+  },
+  {
+    "title": "The Catcher in the Rye",
+    "author": "J.D. Salinger",
+    "description": "A story about teenage angst and alienation.",
+    "price": 10.99,
+    "genre": "Fiction",
+    "condition": "Used - Good",
+    "edition": "1st",
+    "imageUrl": "https://m.media-amazon.com/images/I/8125BDk3l9L._SL1500_.jpg"
+  },
+  {
+    "title": "JavaScript: The Good Parts",
+    "author": "Douglas Crockford",
+    "description": "Unearthing the elegant parts of JavaScript.",
+    "price": 25.0,
+    "genre": "Programming",
+    "condition": "Like New",
+    "edition": "1st",
+    "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/81kqrwS1nNL.jpg"
+  },
+  {
+    "title": "The Hobbit",
+    "author": "J.R.R. Tolkien",
+    "description": "A fantasy novel about the journey of Bilbo Baggins.",
+    "price": 15.0,
+    "genre": "Fantasy",
+    "condition": "Used - Good",
+    "edition": "1st",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/en/4/4a/TheHobbit_FirstEdition.jpg"
+  }
+]
+  
