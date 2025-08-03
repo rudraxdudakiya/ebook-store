@@ -1,4 +1,4 @@
-import { getBooksOfCart, placeTheOrder } from "../services/Customer";
+import { getBooksOfCart, placeTheOrder } from "../services/customer";
 import Swal from "sweetalert2";
 
 import {
