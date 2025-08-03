@@ -5,10 +5,10 @@
   "license": "ISC",
   "author": "Rudrax Dudakiya",
   "type": "commonjs",
-  "main": "src/App.js",
+  "main": "index.js",
   "scripts": {
-    "start": "node src/App.js",
-    "dev": "nodemon src/App.js",
+    "start": "node index.js",
+    "dev": "nodemon index.js",
     "vercel-build": "echo 'No build needed for backend'",
     "build": "echo 'Skip build step'"
   },
