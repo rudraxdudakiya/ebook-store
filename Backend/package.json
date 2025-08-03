@@ -9,7 +9,7 @@
   "scripts": {
     "start": "node src/App.js",
     "dev": "nodemon src/App.js",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "echo 'No build step required' && exit 0"
   },
   "dependencies": {
     "bcryptjs": "^3.0.2",
