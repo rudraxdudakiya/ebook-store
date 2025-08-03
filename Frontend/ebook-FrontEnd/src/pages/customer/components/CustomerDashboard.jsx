@@ -1,4 +1,4 @@
-import { getBooks, searchBook, addBookOtCart } from "../services/Customer";
+import { getBooks, searchBook, addBookOtCart } from "../services/customer";
 import Swal from "sweetalert2";
 import { Autocomplete, TextField } from "@mui/material";
 import SearchIcon from "@mui/icons-material/Search";
